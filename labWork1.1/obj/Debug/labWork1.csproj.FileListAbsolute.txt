@@ -1,0 +1,21 @@
+C:\Users\Владимир\Documents\Visual Studio 2015\Projects\labWork1.1\labWork1.1\obj\Debug\labWork1.1.dll
+C:\Users\Владимир\Documents\Visual Studio 2015\Projects\labWork1.1\labWork1.1\obj\Debug\labWork1.1.pdb
+C:\Users\Владимир\Documents\Visual Studio 2015\Projects\labWork1.1\labWork1.1\bin\Debug\labWork1.1.dll.config
+C:\Users\Владимир\Documents\Visual Studio 2015\Projects\labWork1.1\labWork1.1\bin\Debug\labWork1.1.dll
+C:\Users\Владимир\Documents\Visual Studio 2015\Projects\labWork1.1\labWork1.1\bin\Debug\labWork1.1.pdb
+C:\Users\Владимир\Desktop\labWork1.1\labWork1.1\bin\Debug\labWork1.1.dll.config
+C:\Users\Владимир\Desktop\labWork1.1\labWork1.1\bin\Debug\labWork1.1.dll
+C:\Users\Владимир\Desktop\labWork1.1\labWork1.1\bin\Debug\labWork1.1.pdb
+C:\Users\Владимир\Desktop\labWork1.1\labWork1.1\obj\Debug\labWork1.1.dll
+C:\Users\Владимир\Desktop\labWork1.1\labWork1.1\obj\Debug\labWork1.1.pdb
+C:\Users\Владимир\Desktop\labWork\labWork1.1\bin\Debug\labWork1.1.dll.config
+C:\Users\Владимир\Desktop\labWork\labWork1.1\bin\Debug\labWork1.1.dll
+C:\Users\Владимир\Desktop\labWork\labWork1.1\bin\Debug\labWork1.1.pdb
+C:\Users\Владимир\Desktop\labWork\labWork1.1\obj\Debug\labWork1.1.dll
+C:\Users\Владимир\Desktop\labWork\labWork1.1\obj\Debug\labWork1.1.pdb
+D:\Рабочий стол\labWork2\labWork1.1\bin\Debug\labWork1.1.dll.config
+D:\Рабочий стол\labWork2\labWork1.1\bin\Debug\labWork1.1.dll
+D:\Рабочий стол\labWork2\labWork1.1\bin\Debug\labWork1.1.pdb
+D:\Рабочий стол\labWork2\labWork1.1\obj\Debug\labWork1.csprojResolveAssemblyReference.cache
+D:\Рабочий стол\labWork2\labWork1.1\obj\Debug\labWork1.1.dll
+D:\Рабочий стол\labWork2\labWork1.1\obj\Debug\labWork1.1.pdb
