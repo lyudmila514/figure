@@ -30,7 +30,9 @@ namespace labwork1_1
         /// Координата фигуры по оси Y
         /// </summary>
         public int _y;
-
+        /// <summary>
+        /// Координата Х
+        /// </summary>
         public int X
         {
             get
