@@ -30,6 +30,9 @@ namespace labWork1
                 return "Круг";
             }
         }
+        /// <summary>
+        /// Координата Х
+        /// </summary>
         public int X
         {
             get
@@ -41,7 +44,9 @@ namespace labWork1
                 _x = value;
             }
         }
-
+        /// <summary>
+        /// Координата Y 
+        /// </summary>
         public int Y
         {
             get

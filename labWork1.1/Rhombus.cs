@@ -30,7 +30,9 @@ namespace labwork1_1
         /// Координата фигуры по оси Y
         /// </summary>
         public int _y;
-
+        /// <summary>
+        /// Координата Х
+        /// </summary>
         public int X
         {
             get
@@ -54,7 +56,9 @@ namespace labwork1_1
                 _y = value;
             }
         }
-
+        /// <summary>
+        /// Первая диагональ
+        /// </summary>
         public double D1
         {
             get { return _d1; }
@@ -67,7 +71,9 @@ namespace labwork1_1
                 _d1 = value;
             }
         }
-
+        /// <summary>
+        /// Вторая диагональ
+        /// </summary>
         public double D2
         {
             get { return _d2; }
